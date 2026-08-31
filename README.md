@@ -52,3 +52,24 @@ En México, el INAI fue sustituido en mayo de 2025 por el organismo “Transpare
     - [EDPS – European Data Protection Supervisor](https://edps.europa.eu/)
         
     - [EDPB – European Data Protection Board](https://edpb.europa.eu/)
+
+
+# CPEUM
+
+31/08/26
+
+### **Artículo 1°**
+
+En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece. **Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.**
+
+### **Artículo 6°**
+
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público. El derecho a la información será garantizado por el Estado. **Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión.** **La ley establecerá las bases, procedimientos y condiciones para el acceso a la información y para la protección de datos personales.**
+
+### **Artículo 7°**
+
+Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. **Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el artículo 6° de esta Constitución.** En ningún caso se podrá secuestrar la imprenta como instrumento del delito.
+
+### **Artículo 16°**
+
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. **Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición.** El ejercicio de estos derechos se regirá por lo dispuesto en la ley.
