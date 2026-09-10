@@ -76,4 +76,4 @@ Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesione
 
 Actividad 1.4
 
-![[Pasted image 20260907103542.png]]![[Pasted image 20260907103618.png]]![[Pasted image 20260907103653.png]]![[Pasted image 20260907103719.png]]
+![[Pasted image 20260907103542.png]]![[Pasted image 20260907103618.png]]![[Pasted image 20260907103653.png]]![[Pasted image 20260907103719.png]]![[Pasted image 20260910103808.png]]
